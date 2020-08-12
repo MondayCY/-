@@ -1,0 +1,270 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .a {
+            position: fixed;
+            cursor: pointer;
+            -webkit-transform: scale(1.00);
+            transition: all 1s ease-out 0s;
+            transition: transform 0.3s;
+        }
+        
+        .big {
+            width: 1250px;
+        }
+        
+        .b {
+            width: 1250px;
+            height: 60px;
+            padding-top: 0px;
+            top: auto;
+        }
+        
+        .d {
+            width: 442.52px;
+            height: 60px;
+            left: 0;
+            top: 0;
+            padding: 0px 0px 0px 24px;
+            display: inline-block;
+            position: absolute;
+            z-index: 100;
+        }
+        
+        .c {
+            width: 246px;
+            height: 60px;
+            position: absolute;
+            right: 0;
+            top: 0;
+            z-index: 100;
+            padding-right: 24px;
+            padding: 0px, 24px, 0px, 0px;
+        }
+        
+        .gaokao {
+            height: 23px;
+            width: 52px;
+            margin-left: 32px;
+            margin-top: 19px;
+            font: 13px 'PingFang SC';
+            color: #f63051;
+            text-decoration: none;
+            display: inline-block;
+            position: relative;
+            cursor: pointer;
+        }
+        
+        .shezhi {
+            padding-top: 23px;
+            color: #222222;
+            font: 13px 'PingFang SC';
+            margin-left: 32px;
+            margin-top: 19px;
+        }
+        
+        .denglu {
+            width: 50px;
+            height: 24px;
+            margin-left: 180px;
+            margin-top: -25px;
+            background-color: #4171f2;
+            text-align: center;
+            border-radius: 6px;
+            position: absolute;
+        }
+        
+        .denglu1 {
+            margin-left: auto;
+            overflow: hidden;
+            color: white!important;
+            text-decoration: none;
+            font: 13px 'PingFang SC';
+        }
+        
+        .tupian {
+            width: 1250px;
+            height: 188.39px;
+            margin-right: auto;
+            margin-left: 20px;
+            padding-top: 5%;
+        }
+        
+        .g {
+            width: 548px;
+            height: 44px;
+        }
+        
+        .shuru {
+            width: 480px!important;
+            height: 16px;
+            padding-right: 48px!important;
+            padding: 12px 16px;
+            border-radius: 10px 0 0 10px;
+            border: 2px solid #c4c7ce;
+            background-color: white;
+            margin-left: 400px;
+            position: absolute;
+            float: left;
+            margin-top: -50px;
+        }
+        
+        .paizhao {
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            float: left;
+            margin-top: -37px;
+            margin-left: 910px;
+        }
+        
+        .sousuo {
+            width: 108px;
+            height: 44px;
+            cursor: pointer;
+            line-height: 43px;
+            padding: 0px;
+            background-color: #4e6ef2;
+            border-radius: 0 10px 10px 0;
+            border-color: #4e6ef2;
+            font-size: 17px;
+            font-family: "PingFang SC";
+            color: white;
+            float: left;
+            margin-left: 943px;
+            text-align: center;
+            margin-top: -50px;
+            z-index: 2;
+            border-right: 0px;
+            border-bottom: 0px;
+        }
+        
+        .baidu {
+            position: absolute;
+            margin-left: 37%;
+            margin-top: auto;
+            width: 25%;
+        }
+        
+        .g {
+            width: 654px;
+        }
+        
+        .h {
+            width: 800px;
+            height: 200px;
+            margin: auto;
+        }
+        
+        .rebang {
+            color: #222222;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            font: 14px "PingFang SC";
+            margin-left: 120px;
+            float: left;
+        }
+        
+        .shuaxin {
+            height: 15px;
+            width: 15px;
+            margin-left: 500px;
+            position: absolute;
+            margin-top: 13px;
+        }
+        
+        .huanyihuan {
+            color: #9195a3;
+            width: 56px;
+            padding-top: 10px;
+            page-break-inside: 20px;
+            font: 14px "PingFang SC";
+            float: left;
+            margin-left: 65%;
+        }
+        
+        .weibu {
+            width: 1360px;
+            padding-bottom: 40px;
+        }
+        
+        .z {
+            width: 556.69px;
+            height: 40px;
+            text-align: center;
+            position: absolute;
+            padding-top: 90px;
+        }
+        
+        .wei {
+            text-decoration: none;
+            font: 12px "PingFang SC";
+            color: gray;
+            border: 5px solid white;
+        }
+        
+        .y {
+            width: 700px;
+            height: 40px;
+            background-color: transparent;
+            position: absolute;
+            padding: 77px 0px 0px 670px;
+            padding-top: 90px;
+        }
+        
+        .end {
+            font: 12px "PingFang SC";
+            color: lightslategrey;
+            border: 5px solid white;
+            float: right;
+        }
+        
+        .xinwen,
+        .hao123,
+        .ditu,
+        .shipin,
+        .tieba,
+        .xueshu,
+        .gengduo {
+            display: inline-block;
+            position: relative;
+            color: #000000;
+            font: 13px/23px 'PingFang SC', Arial, 'Microsoft YaHei', sans-serif;
+            margin-top: 19px;
+            margin-right: 27px;
+            text-decoration: none;
+        }
+        
+        .liebiao {
+            width: 800px;
+            margin-left: 390px;
+            margin-top: -180px;
+            position: absolute;
+            font: 14px "PingFang SC";
+            color: #626675;
+            background-color: transparent;
+            height: 200px;
+        }
+        
+        ul {
+            list-style: none;
+            display: block;
+            margin-block-end: 1em;
+            margin-inline-start: 0px;
+            margin-block-start: 1em;
+            margin-inline-end: 0px;
+            padding-inline-start: 10px;
+            height: 35px;
+            line-height: 35px;
+        }
+        
+        .four,
+        .five,
+        .six {
+            margin-left: 350px;
+            position: absolute;
+            float: left;
+            margin-top: -35px;
+        }
